@@ -12,7 +12,7 @@ function App() {
           <p className="FooterLink">
             This project was coded by Elvina, is{" "}
             <a
-              href=""
+              href="https://github.com/Elvin4ik/React-GitHub-Netlify.git"
               target="_blank"
               rel="noopener noreferrer"
             >
